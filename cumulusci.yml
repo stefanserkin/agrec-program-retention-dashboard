@@ -3,8 +3,14 @@ project:
     name: agrec-program-retention-dashboard
     package:
         name: Traction Rec Program Retention Dashboard
+        namespace: agrec
         api_version: '63.0'
+    dependencies:
+        - github: 'https://github.com/stefanserkin/agrec-base-pack'
+        - version_id: 04t1U0000058cL3QAI
+        - version_id: 04t5G000003RUjoQAG
     git:
+        default_branch: 'main'
     test:
         name_match: '%_Test%'
     source_format: sfdx
