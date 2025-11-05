@@ -1,5 +1,5 @@
 {
-  "orgName": "&#34;Traction Rec Program Retention Dashboard&#34; - Dev Org",
+  "orgName": "Traction Rec Program Retention Dashboard - Dev Org",
   "edition": "Developer",
   "settings": {
     "lightningExperienceSettings": {
@@ -19,6 +19,9 @@
     },
     "languageSettings": {
       "enableTranslationWorkbench": true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
     }
   }
 }

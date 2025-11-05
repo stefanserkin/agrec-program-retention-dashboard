@@ -1,5 +1,5 @@
 {
-  "orgName": "&#34;Traction Rec Program Retention Dashboard&#34; - Release Test Org",
+  "orgName": "Traction Rec Program Retention Dashboard - Release Test Org",
   "edition": "Enterprise",
   "settings": {
     "lightningExperienceSettings": {
@@ -16,5 +16,9 @@
       "sessionSettings": {
         "forceRelogin": false
       }
-    }  }
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    }
+  }
 }
